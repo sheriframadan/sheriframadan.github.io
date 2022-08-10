@@ -1,2 +1,2 @@
 # Welcome to ArcGIS Maps For Power BI ( Embdedded)
- <iframe title="TestXY" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=00405d51-0ded-406e-a1d9-eef33200a950&autoAuth=true&ctid=44c00907-989f-4c29-b8dd-3943e2207e00&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXVzLWNlbnRyYWwtYi1wcmltYXJ5LXJlZGlyZWN0LmFuYWx5c2lzLndpbmRvd3MubmV0LyJ9" frameborder="0" allowFullScreen="true"></iframe>
+ <iframe title="MapTest21" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=6d5fd17d-ea43-47cf-8d53-fadbe20a5843&autoAuth=true&ctid=44c00907-989f-4c29-b8dd-3943e2207e00&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXVzLWNlbnRyYWwtYi1wcmltYXJ5LXJlZGlyZWN0LmFuYWx5c2lzLndpbmRvd3MubmV0LyJ9" frameborder="0" allowFullScreen="true"></iframe>
